@@ -1,0 +1,183 @@
+---- ExifTool ----
+ExifTool Version Number         : 12.42
+---- System ----
+File Name                       : DJI_20220902160959_0019_Z.JPG
+Directory                       : //wsl.localhost/Ubuntu/home/hectorb/rentadrone-github/UAV Thermography/resources
+File Size                       : 12 MB
+File Modification Date/Time     : 2022:09:03 00:30:24-04:00
+File Access Date/Time           : 2022:09:29 10:10:14-04:00
+File Creation Date/Time         : 2022:09:03 00:30:24-04:00
+File Permissions                : -rw-rw-rw-
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Width                     : 5184
+Image Height                    : 3888
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- IFD0 ----
+Image Description               : default
+Make                            : DJI
+Camera Model Name               : ZH20T
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 01.00.02.11
+Modify Date                     : 2022-09-02 16:09:59
+Y Cb Cr Positioning             : Co-sited
+XP Comment                      : 0.9.142
+XP Keywords                     : single
+---- ExifIFD ----
+Exposure Time                   : 1/125
+F Number                        : 3.5
+Exposure Program                : Manual
+ISO                             : 100
+Sensitivity Type                : Recommended Exposure Index
+Exif Version                    : 0230
+Date/Time Original              : 2022-09-02 16:09:59
+Create Date                     : 2022-09-02 16:09:59
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/125
+Aperture Value                  : 3.5
+Exposure Compensation           : +1
+Max Aperture Value              : 2.8
+Metering Mode                   : Center-weighted average
+Light Source                    : Daylight
+Flash                           : No Flash
+Focal Length                    : 6.8 mm
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 5184
+Exif Image Height               : 3888
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Exposure Mode                   : Manual
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 31 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Device Setting Description      : (Binary data 4 bytes, use -b option to extract)
+Serial Number                   : 1W9DH9R001H494
+Lens Info                       : 6.83-119.94mm f/2.8
+---- DJI ----
+AE Debug Info                   : (Binary data 4096 bytes, use -b option to extract)
+AE Histogram Info               : (Binary data 4096 bytes, use -b option to extract)
+AE Local Histogram              : (Binary data 2048 bytes, use -b option to extract)
+AE Live View Histogram Info     : (Binary data 4096 bytes, use -b option to extract)
+AE Live View Local Histogram    : (Binary data 2048 bytes, use -b option to extract)
+AWB Debug Info                  : (Binary data 4096 bytes, use -b option to extract)
+AF Debug Info                   : (Binary data 256 bytes, use -b option to extract)
+Histogram                       : (Binary data 1024 bytes, use -b option to extract)
+Xidiri                          : (Binary data 512 bytes, use -b option to extract)
+Gimbal Degree                   : -1790,-900,0
+Flight Degree                   : -1799,-106,26
+ADJ Debug Info                  : (Binary data 1024 bytes, use -b option to extract)
+Sensor ID                       : 1W9DH9R001H494
+Flight Speed                    : -69,0,1
+Hyperlaps Debug Info            : (Binary data 8 bytes, use -b option to extract)
+---- InteropIFD ----
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+---- GPS ----
+GPS Version ID                  : 2.3.0.0
+GPS Latitude Ref                : South
+GPS Latitude                    : 35 deg 18' 3.18"
+GPS Longitude Ref               : West
+GPS Longitude                   : 71 deg 31' 43.01"
+GPS Altitude Ref                : Above Sea Level
+GPS Altitude                    : 348.604 m
+GPS Status                      : Measurement Active
+GPS Map Datum                   : WGS-84
+---- IFD1 ----
+Compression                     : JPEG
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Thumbnail Offset                : 24974
+Thumbnail Length                : 10881
+Thumbnail Image                 : (Binary data 10881 bytes, use -b option to extract)
+---- XMP-rdf ----
+About                           : DJI Meta Data
+---- XMP-xmp ----
+Modify Date                     : 2022:09:02 16:09:59
+Create Date                     : 2022:09:02 16:09:59
+---- XMP-tiff ----
+Make                            : DJI
+Camera Model Name               : ZH20T
+---- XMP-dc ----
+Format                          : image/jpg
+---- XMP-drone-dji ----
+Version                         : 1.2
+Gps Status                      : RTK
+Altitude Type                   : RtkAlt
+GPS Latitude                    : 35 deg 18' 3.18" S
+GPS Longitude                   : 71 deg 31' 43.01" W
+Absolute Altitude               : +348.604
+Relative Altitude               : +182.462
+Gimbal Roll Degree              : +0.00
+Gimbal Yaw Degree               : -179.00
+Gimbal Pitch Degree             : -90.00
+Flight Roll Degree              : +2.60
+Flight Yaw Degree               : -179.90
+Flight Pitch Degree             : -10.60
+Flight X Speed                  : -6.9
+Flight Y Speed                  : 0.0
+Flight Z Speed                  : 0.1
+Cam Reverse                     : 0
+Gimbal Reverse                  : 0
+Self Data                       : 
+Rtk Flag                        : 50
+Rtk Std Lon                     : 0.01053
+Rtk Std Lat                     : 0.01245
+Rtk Std Hgt                     : 0.02056
+---- XMP-crs ----
+Version                         : 7.0
+Has Settings                    : False
+Has Crop                        : False
+Already Applied                 : False
+---- MPF0 ----
+MPF Version                     : 0100
+Number Of Images                : 2
+Image UID List                  : (Binary data 66 bytes, use -b option to extract)
+Total Frames                    : 1
+---- MPImage1 ----
+MP Image Flags                  : Representative image, Dependent parent image
+MP Image Format                 : JPEG
+MP Image Type                   : Baseline MP Primary Image
+MP Image Length                 : 11009317
+MP Image Start                  : 0
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 2
+---- MPImage2 ----
+MP Image Flags                  : Dependent child image
+MP Image Format                 : JPEG
+MP Image Type                   : Large Thumbnail (VGA equivalent)
+MP Image Length                 : 844919
+MP Image Start                  : 11017509
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 0
+Preview Image                   : (Binary data 844919 bytes, use -b option to extract)
+---- Composite ----
+Aperture                        : 3.5
+Image Size                      : 5184x3888
+Megapixels                      : 20.2
+Scale Factor To 35 mm Equivalent: 4.5
+Shutter Speed                   : 1/125
+GPS Altitude                    : 348.6 m Above Sea Level
+GPS Latitude                    : 35 deg 18' 3.18" S
+GPS Longitude                   : 71 deg 31' 43.01" W
+Circle Of Confusion             : 0.007 mm
+Field Of View                   : 60.3 deg
+Focal Length                    : 6.8 mm (35 mm equivalent: 31.0 mm)
+GPS Position                    : 35 deg 18' 3.18" S, 71 deg 31' 43.01" W
+Hyperfocal Distance             : 2.01 m
+Light Value                     : 10.6

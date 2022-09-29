@@ -31,7 +31,10 @@ Steps:
 4. Select the input folder that contains your images dataset. Pres Run.
 5. Make zoom to view the layer generated.
  
-You should have a result like this: 
+You should have a result like this:
+<br> 
+<img src="resources/data_preprocessing/geotagged_photos.jpg" alt="SimpleMap Logo" width="640">
+
 
 ## 3. Checking that thermal images are radiometric
 Radiometric for a thermal image means that you can adjust some parameters to calculate each pixel temperature. This parameters are: emissivity, distance from the object, reflected temperature and relative humidity. To check this you should use the camera manufacturer software. For DJI H20T thermal images you can use the latest version of **DJI Thermal Analisys Tool**. Clic [**here**](https://www.dji.com/downloads/softwares/dji-dtat3/) you go its website.

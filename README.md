@@ -13,26 +13,7 @@
 <br>
 
 
-<html>
-<head>
-<style>
-footer {
-  text-align: left;
-  padding: 3px;
-  background-color: #475569;
-  color: white;
-}
-a {
-    color: #60a5fa;
-}
-</style>
-</head>
-<body>
 
-<footer>
-  <p>Content Maintainer:<br> Hector Jose Bastidas Gonzalez<br>
-  <a href="mailto:hector.bastidas@simplemap.io">hector.bastidas@simplemap.io</a></p>
-</footer>
-
-</body>
-</html>
+|*Content Maintainer*|
+|-|
+|*Hector Jose Bastidas Gonzalez*<br>*hector.bastidas@simplemap.io*|

@@ -84,29 +84,12 @@ From each corner of the power plant, a RGB image must be taken that shows plant 
 - Photovoltaic plan detailed layouts, where it shows subzone divisions, quantity of panels and weather stations location
 - Weather data: Every 10 minutes or less, It should take the values ​​of the following conditions: horizontal & inclined irradiance, relative humidity, ambient temperature and modules temperature.  The data from the weather stations of the photovoltaic plant can be used.
 
-<html>
-<head>
-<style>
-footer {
-  text-align: left;
-  padding: 3px;
-  background-color: #475569;
-  color: white;
-}
-a {
-    color: #60a5fa;
-}
-</style>
-</head>
-<body>
+|*Content Maintainer*|
+|-|
+|*Hector Jose Bastidas Gonzalez*<br>*hector.bastidas@simplemap.io*|
 
-<footer>
-  <p>Content Maintainer:<br> Hector Jose Bastidas Gonzalez<br>
-  <a href="mailto:hector.bastidas@simplemap.io">hector.bastidas@simplemap.io</a></p>
-</footer>
 
-</body>
-</html>
+
 
 
 

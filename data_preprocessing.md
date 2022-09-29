@@ -36,28 +36,7 @@ You should have a result like this:
 ## 3. Checking that thermal images are radiometric
 Radiometric for a thermal image means that you can adjust some parameters to calculate each pixel temperature. This parameters are: emissivity, distance from the object, reflected temperature and relative humidity. To check this you should use the camera manufacturer software. For DJI H20T thermal images you can use the latest version of **DJI Thermal Analisys Tool**. Clic [**here**](https://www.dji.com/downloads/softwares/dji-dtat3/) you go its website.
 
-<img src="resources/data_preprocessing/geotagged_photos.jpg" alt="SimpleMap Logo" width="630">
 
-<html>
-<head>
-<style>
-footer {
-  text-align: left;
-  padding: 3px;
-  background-color: #475569;
-  color: white;
-}
-a {
-    color: #60a5fa;
-}
-</style>
-</head>
-<body>
-
-<footer>
-  <p>Content Maintainer:<br> Hector Jose Bastidas Gonzalez<br>
-  <a href="mailto:hector.bastidas@simplemap.io">hector.bastidas@simplemap.io</a></p>
-</footer>
-
-</body>
-</html>
+|*Content Maintainer*|
+|-|
+|*Hector Jose Bastidas Gonzalez*<br>*hector.bastidas@simplemap.io*|

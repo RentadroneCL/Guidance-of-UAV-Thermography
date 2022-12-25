@@ -5,11 +5,11 @@
 ## Steps
 ### [1. Data Collection](data_collection.md)
 ### [2. Data Preprocessing](data_preprocessing.md)
-### 3. Photogrammetry RBG
-### 4. Generation of digital twin of the asset
-### 5. Georegistration of thermal images
-### 6. Faults detection & classification
-### 7. Reporting
+### [3. Photogrammetry RBG](photogrammetry_rbg.md)
+### [4. Generation of digital twin of the asset](generation_of_digital_twin_of_the_asset.md)
+### [5. Georegistration of thermal images](georegistration_of_thermal_images.md)
+### [6. Faults detection & classification](faults_detection_&_classification.md)
+### [7. Reporting](reporting.md)
 <br>
 
 

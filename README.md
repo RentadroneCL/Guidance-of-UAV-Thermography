@@ -13,7 +13,9 @@
 <br>
 
 
-
 |*Content Maintainer*|
 |-|
 |*Hector Jose Bastidas Gonzalez*<br>*hector.bastidas@simplemap.io*|
+
+## License
+Everything in this repository is under a [Creative Commons Zero v1.0 Universal License](https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/blob/main/LICENSE).

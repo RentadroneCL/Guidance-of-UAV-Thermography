@@ -6,7 +6,7 @@
 
 ## 1. Convert .RJPG thermal images to .TIFF
 ### 1.1 Use Case of UAV Matrice 300 RTK + Camera DJI H20T
-In this step, we will convert our RJPG thermal images using a dockerized version of the Official DJI Thermal SDK, which can be found in this Github repository.
+In this step, we will convert our RJPG thermal images using a dockerized version of the Official DJI Thermal SDK, which can be found in this [Github repository](https://github.com/RentadroneCL/DJI-Thermal-SDK-Docker-image-Output-TIFF-Version).
 
 Steps:
 1. Fork and clone the github repository

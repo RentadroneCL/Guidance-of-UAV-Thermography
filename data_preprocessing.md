@@ -13,7 +13,7 @@ Below we show the structure of the metadata for the images used in UAV thermogra
 
 |Camera|Mode|Example of Image File |Example of ExifTool Output File|
 |-|-|:-:|-|
-|DJI H20T|RGB Zoom|[DJI_20220902160959_0019_Z.JPG](resources/data_preprocessing/DJI_20220902160959_0019_Z.JPG)<br><img src="resources/data_preprocessing/DJI_20220902160959_0019_Z.JPG" alt="RGB Zoom Image" width="210">|[DJI_20220902160959_0019_Z.txt](resources/DJI_20220902160959_0019_Z.txt)|
+|DJI H20T|RGB Zoom|[DJI_20220902160959_0019_Z.JPG](resources/data_preprocessing/DJI_20220902160959_0019_Z.JPG)<br><img src="resources/data_preprocessing/DJI_20220902160959_0019_Z.JPG" alt="RGB Zoom Image" width="210">|[DJI_20220902160959_0019_Z.txt](resources/data_preprocessing/DJI_20220902160959_0019_Z.txt)|
 |DJI H20T|IR Thermal|[DJI_20220902151742_0028_T.JPG](resources/data_preprocessing/DJI_20220902151742_0028_T.JPG)<br><img src="resources/data_preprocessing/DJI_20220902151742_0028_T.JPG" alt="IR Thermal Image" width="210">|[DJI_20220902151742_0028_T.txt](resources/data_preprocessing/DJI_20220902151742_0028_T.txt)|
 
 ### 1.2 Batch metadata
@@ -33,7 +33,7 @@ Steps:
  
 You should have a result like this:
 <br> 
-<img src="resources/data_preprocessing/geotagged_photos.jpg" alt="SimpleMap Logo" width="640">
+<img src="resources/data_preprocessing/geotagged_photos.jpg" alt="geotagged_photos" width="800">
 
 
 ## 3. Checking that thermal images are radiometric

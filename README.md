@@ -3,17 +3,18 @@
 # GUIDANCE FOR UAV THERMOGRAPHY
 
 ## Steps
-### [1. Data Collection](data_collection.md)
-### [2. Data Preprocessing](data_preprocessing.md)
-### [3. Photogrammetry RBG](photogrammetry_rbg.md)
-### [4. Generation of digital twin of the asset](generation_of_digital_twin_of_the_asset.md)
-### [5. Georegistration of thermal images](georegistration_of_thermal_images.md)
-### [6. Faults detection & classification](faults_detection_&_classification.md)
-### [7. Reporting](reporting.md)
+1. [Data Collection](data_collection.md)
+2. [Data Preprocessing](data_preprocessing.md)
+3. [Asset digital twin creation](digital_twin.md)
+4. [Georegistration of thermal images](georegistration.md)
+5. Faults detection & classification
+6. Reporting
 <br>
-
 
 
 |*Content Maintainer*|
 |-|
 |*Hector Jose Bastidas Gonzalez*<br>*hector.bastidas@simplemap.io*|
+
+## License
+Everything in this repository is under a [Creative Commons Zero v1.0 Universal License](https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/blob/main/LICENSE).

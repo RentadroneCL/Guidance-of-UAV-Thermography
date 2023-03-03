@@ -12,7 +12,7 @@
   <a href="https://opencollective.com/simple-map"><img src="https://img.shields.io/opencollective/sponsors/simple-map?colorA=363a4f&logo=open%20collective&style=for-the-badge"></a>
 </p>
 
-# GUIDANCE FOR UAV THERMOGRAPHY
+# Guidance for UAV Thermography
 
 To learn all about it, head over to the extensive [documentation](https://rentadronecl.github.io)
 
@@ -24,6 +24,14 @@ To learn all about it, head over to the extensive [documentation](https://rentad
 5. Faults detection & classification
 6. Reporting
 <br>
+
+## Contributing
+
+Contributions are **welcome** and will be fully **credited**. We accept contributions via Pull Requests on [GitHub](https://github.com/RentadroneCL/Guidance-of-UAV-Thermography).
+
+## [Code of Conduct](https://github.com/RentadroneCL/AI-Solar-Platform/blob/master/CODE_OF_CONDUCT.md)
+
+The Guidance for UAV Thermography code of conduct is derived from the [Contributor Covenant](https://www.contributor-covenant.org). Any violations of the code of conduct may be reported to [simplemap.io](mailto:contacto@simplemap.io)
 
 |*Content Maintainer*|
 |-|

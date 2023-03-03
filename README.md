@@ -3,12 +3,12 @@
 # GUIDANCE FOR UAV THERMOGRAPHY
 
 ## Steps
-### [1. Data Collection](data_collection.md)
-### [2. Data Preprocessing](data_preprocessing.md)
-### [3. Asset digital twin creation](digital_twin.md)
-### [4. Georegistration of thermal images](georegistration.md)
-### 5. Faults detection & classification
-### 6. Reporting
+1. [Data Collection](data_collection.md)
+2. [Data Preprocessing](data_preprocessing.md)
+3. [Asset digital twin creation](digital_twin.md)
+4. [Georegistration of thermal images](georegistration.md)
+5. Faults detection & classification
+6. Reporting
 <br>
 
 

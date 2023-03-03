@@ -1,6 +1,20 @@
-<img src="https://simplemap.io/wp-content/uploads/2022/08/Color-logo-no-background-1-2048x522.png" alt="SimpleMap Logo" width="236" height="60">
+<p align="center" dir="auto">
+  <a href="https://simplemap.io" rel="nofollow"><img src="https://user-images.githubusercontent.com/1696665/222504918-2c16d594-be82-4914-8a19-e8af5dfb4b26.png" width="500" style="max-width: 100%;"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/RentadroneCL/AI-Agro-Platform/tags"><img src="https://img.shields.io/github/v/tag/RentadroneCL/AGuidance-of-UAV-Thermography?colorA=363a4f&style=for-the-badge"></a>
+  <a href="https://github.com/RentadroneCL/AI-Agro-Platform/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&style=for-the-badge"></a>
+  <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?colorA=363a4f&style=for-the-badge"></a>
+  <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/stargazers"><img src="https://img.shields.io/github/stars/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/issues"><img src="https://img.shields.io/github/issues/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/contributors"><img src="https://img.shields.io/github/contributors/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+  <a href="https://opencollective.com/simple-map"><img src="https://img.shields.io/opencollective/sponsors/simple-map?colorA=363a4f&logo=open%20collective&style=for-the-badge"></a>
+</p>
 
 # GUIDANCE FOR UAV THERMOGRAPHY
+
+To learn all about it, head over to the extensive [documentation](https://rentadronecl.github.io)
 
 ## Steps
 1. [Data Collection](data_collection.md)
@@ -10,7 +24,6 @@
 5. Faults detection & classification
 6. Reporting
 <br>
-
 
 |*Content Maintainer*|
 |-|

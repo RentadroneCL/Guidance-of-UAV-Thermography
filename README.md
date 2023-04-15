@@ -21,8 +21,8 @@ To learn all about it, head over to the extensive [documentation](https://rentad
 2. [Data Preprocessing](data_preprocessing.md)
 3. [Asset digital twin creation](digital_twin.md)
 4. [Georegistration of thermal images](georegistration.md)
-5. Faults detection & classification
-6. Reporting
+5. [Faults detection & classification](https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/blob/main/faults_detection_%26_classification.md)
+6. [Reporting](https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/blob/main/reporting.md)
 <br>
 
 ## Contributing

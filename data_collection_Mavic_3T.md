@@ -37,7 +37,7 @@
 ### 4.2 Main images orientation
 
 
-<img src="https://simplemap.io/wp-content/uploads/2024/06/Captura-de-pantalla-2024-06-05-a-las-10.33.33 a.m.png" width="580">
+<img src="https://simplemap.io/wp-content/uploads/2024/06/Captura-de-pantalla-2024-06-05-a-las-10.55.36 a.m.png" width="580">
 
 ### 4.3 Secondary images
 

@@ -37,7 +37,7 @@
 ### 4.2 Main images orientation
 
 
-<img src="resources/data_collection/uav_image_orientation.jpg" alt="uav image orientation" width="580">
+<img src="[resources/data_collection/uav_image_orientation.jpg" alt="uav image orientation](http://simplemap.io/wp-content/uploads/2024/06/Captura-de-pantalla-2024-06-05-a-las-10.33.33 a.m.png)" width="580">
 
 ### 4.3 Secondary images
 

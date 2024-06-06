@@ -7,7 +7,7 @@
 ## 1. Hardware
 - UAV: DJI Matrice 300 RTK
 - Camera: DJI H20T (Calibration certificate: Issue date less than 1 year)
-- Storage: MicroSD card 32GB or more (see camera manual to see options recommended)
+- Storage: MicroSD card 64GB or more (see camera manual to see options recommended)
 - RTK Base: DJI D-RTK 2
 
 ## 2. Software

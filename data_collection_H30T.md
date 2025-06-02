@@ -14,7 +14,7 @@ Thermographic inspection of photovoltaic (PV) plants with an IR resolution of **
 | **Flight Height (AGL)**   | ~80 m                                        | ~40 m                                       |
 | **Flight Speed**          | 5 m/s                                        | 5 m/s                                       |
 | **Front Overlap**         | 80%                                          | 80%                                         |
-| **Side Overlap**          | 30–40%                                       | 70–80%                                      |
+| **Side Overlap**          | 60%                                       | 70–80%                                      |
 | **Camera Angle**          | Nadir (90°)                                  | Nadir (90°)                                 |
 | **Trigger Mode**          | Time-based / Distance-based                  | Time-based / Distance-based                 |
 | **Thermal Gain Mode**     | High-Res or Low Gain (based on environment)  | —                                           |

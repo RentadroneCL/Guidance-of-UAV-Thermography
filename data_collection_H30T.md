@@ -7,6 +7,8 @@ Thermographic inspection of photovoltaic (PV) plants with an IR resolution of **
 
 ## 🔧 Recommended Flight Parameters
 
+**IMPORTANT:** Make sure the drone and camera are updated with the last available firmware, use DJI Assistant and check the DJI Official Drivers website.
+
 | **Parameter**              | **IR Flight**                                | **RGB Flight**                             |
 |---------------------------|----------------------------------------------|--------------------------------------------|
 | **Sensor Used**           | Radiometric Thermal (1280×1024)              | Wide-angle RGB (48MP equiv. or better)     |
@@ -38,7 +40,6 @@ Thermographic inspection of photovoltaic (PV) plants with an IR resolution of **
 
 ## 🧪 Post-Processing Notes
 
-- IMPORTANT: Make sure the drone and camera are updated with the last available firmware, use DJI Assistant and check the DJI Official Drivers website.
 - Use **DJI Thermal Analysis Tool 3** or **IRimage + Fiji** for radiometric R-JPEG to TIFF conversion.
 - Confirm that all metadata (emissivity, gain, ambient temp) is accurate.
 - Match RGB and IR flights by GPS data and timestamps for alignment.

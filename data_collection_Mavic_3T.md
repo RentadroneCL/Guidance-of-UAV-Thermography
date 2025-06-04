@@ -13,7 +13,7 @@
 - DJI Pilot (Default Remote Controller Software)
 
 ## 3. Before take-off conditions & recommendations
-- IMPORTANT: Make sure that your drone have the last firmware available
+- **IMPORTANT:** Make sure that your drone have the last firmware available
 - Make sure that camera lens are cleans
 - Calibrate the gimbal
 

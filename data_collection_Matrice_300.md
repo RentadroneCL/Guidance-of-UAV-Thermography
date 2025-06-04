@@ -10,18 +10,14 @@
 - Storage: MicroSD card 64GB or more (see camera manual to see options recommended)
 - RTK Base: DJI D-RTK 2
 
-## 2. Software
-- UgCS (lastest desktop version for Windows, macOS or Ubuntu)
-- UgCS for DJI (lastest Android version for DJI Matrice 300 controller) 
-
-## 3. Before take-off conditions & recommendations
+## 2. Before take-off conditions & recommendations
 - **IMPORTANT:** Make sure the drone is updated with the last available firmware, use DJI Assistant and check the DJI Official Drivers website.
 - Make sure that camera lens are cleans
 - Make sure that the RTK base is placed in a unique location for all the flight missions. If you have to collect images in several days, you must place the RTK base in the same place for each day. To ensure the location you can use the "Fix" feature of the RTK in the remote controller of the drone.
 - Calibrate the gimbal
 
-## 4. Fligh settings to collect images in photovoltaic plants
-### 4.1 Main Images of panels: UgCS flight parameters  
+## 3. Fligh settings to collect images in photovoltaic plants
+### 3.1 Main Images of panels: DJI Pilot 2 flight parameters  
 
 ||RGB Orthomosaic  |Thermal single image analysis  |
 |----------------|:---------------:|:-----------------------------:|

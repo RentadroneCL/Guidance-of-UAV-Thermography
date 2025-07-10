@@ -26,8 +26,8 @@
 |*Turn type*  |Stop and turn           | Stop and turn|
 |*Camera*  |Zoom 1x|Thermal IR + Zoom 1x|
 |*GSD*  |5 cm/px| Thermal IR: 4 cm/px,<br> Zoom: 1 cm/px|
-|*Foward Overlap*|80%|50%|   
-|*Side Overlap*|80%|50%|  
+|*Foward Overlap*|80%|80%|   
+|*Side Overlap*|80%|65%|  
 |*Direction flight angle* || Plants with trackers: 0°,<br> whitout trackers: 90°|
 |*Altitud mode*|AGL, 3m tolerance |AGL, 3m tolerance|  
 |*Change yaw* (relative to north) || Plants with trackers: 270°,<br> whitout trackers: 180°|

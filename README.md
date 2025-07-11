@@ -17,12 +17,7 @@
 To learn all about it, head over to the extensive [documentation](https://rentadronecl.github.io)
 
 ## Steps
-1. Data Collection:
-   1.1 [DJI Zenmuse H30T](data_collection_H30T.md)
-   1.2 [DJI Matrice 300](data_collection_Matrice_300.md)
-   1.3 [DJI Matrice 30T](data_collection_Matrice_30T.md)
-   1.4 [DJI Matrice 4T](data_collection_Matrice_4T.md)
-   1.5 [DJI Matrice 3T](data_collection_Mavic_3T.md)   
+1. Data Collection: [DJI Zenmuse H30T](data_collection_H30T.md), [DJI Matrice 300](data_collection_Matrice_300.md), [DJI Matrice 30T](data_collection_Matrice_30T.md), [DJI Matrice 4T](data_collection_Matrice_4T.md), [DJI Matrice 3T](data_collection_Mavic_3T.md)   
 3. [Data Preprocessing](data_preprocessing.md)
 4. [Asset digital twin creation](digital_twin.md)
 5. [Georegistration of thermal images](georegistration.md)
@@ -43,4 +38,4 @@ The Guidance for UAV Thermography code of conduct is derived from the [Contribut
 |*Hector Jose Bastidas Gonzalez*<br>*hector.bastidas@simplemap.io*|
 
 ## License
-Everything in this repository is under a [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Everything in this repository is under a [Creative Commons by-nc-nd 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).

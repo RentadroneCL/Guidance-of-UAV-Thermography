@@ -38,4 +38,4 @@ The Guidance for UAV Thermography code of conduct is derived from the [Contribut
 |*Hector Jose Bastidas Gonzalez*<br>*hector.bastidas@simplemap.io*|
 
 ## License
-Everything in this repository is under a [Creative Commons Zero v1.0 Universal License](https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/blob/main/LICENSE).
+Everything in this repository is under a [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).

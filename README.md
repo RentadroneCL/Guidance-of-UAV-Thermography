@@ -17,7 +17,7 @@
 To learn all about it, head over to the extensive [documentation](https://rentadronecl.github.io)
 
 ## Steps
-1. Data Collection:
+1. Data Collection:<br>
 | [DJI Zenmuse H30T](data_collection_H30T.md) | [DJI Matrice 300](data_collection_Matrice_300.md) | [DJI Matrice 30T](data_collection_Matrice_30T.md) | [DJI Matrice 4T](data_collection_Matrice_4T.md) | [DJI Matrice 3T](data_collection_Mavic_3T.md) |
 3. [Data Preprocessing](data_preprocessing.md)
 4. [Asset digital twin creation](digital_twin.md)

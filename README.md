@@ -17,12 +17,17 @@
 To learn all about it, head over to the extensive [documentation](https://rentadronecl.github.io)
 
 ## Steps
-1. [Data Collection](data_collection.md)
-2. [Data Preprocessing](data_preprocessing.md)
-3. [Asset digital twin creation](digital_twin.md)
-4. [Georegistration of thermal images](georegistration.md)
-5. Faults detection & classification
-6. Reporting
+1. Data Collection:
+   1.1 [DJI Zenmuse H30T](data_collection_H30T.md)
+   1.2 [DJI Matrice 300](data_collection_Matrice_300.md)
+   1.3 [DJI Matrice 30T](data_collection_Matrice_30T.md)
+   1.4 [DJI Matrice 4T](data_collection_Matrice_4T.md)
+   1.5 [DJI Matrice 3T](data_collection_Mavic_3T.md)   
+3. [Data Preprocessing](data_preprocessing.md)
+4. [Asset digital twin creation](digital_twin.md)
+5. [Georegistration of thermal images](georegistration.md)
+6. Faults detection & classification
+7. Reporting
 <br>
 
 ## Contributing

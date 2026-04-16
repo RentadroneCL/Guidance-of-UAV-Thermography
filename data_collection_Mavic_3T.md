@@ -26,11 +26,11 @@
 |*Flight speed*  |7 m/s|4 m/s|
 |*Turn type*  |Stop and turn           | Stop and turn|
 |*Camera*  |Zoom 1x|Thermal IR + Zoom 1x|
-|*GSD*  |3 cm/px| Thermal IR: 3 cm/px,<br> Zoom: 1 cm/px|
-|*Front Overlap*|80%|80%|   
-|*Side Overlap*|60%|60%|  
+|*GSD*  |3.5 cm/px| Thermal IR: 3.5 cm/px,<br> Zoom: 1 cm/px|
+|*Front Overlap*|80%|75%|   
+|*Side Overlap*|70%|65%|  
 |*Direction flight angle* || Plants with trackers: 0°,<br> whitout trackers: 90°|
-|*Altitud mode*|AGL, 3m tolerance |AGL, 3m tolerance|  
+|*Altitud mode*|ALT, 3m tolerance |ALT, 3m tolerance|  
 |*Change yaw* (relative to north) || Plants with trackers: 270°,<br> whitout trackers: 180°|
 |*Set camera by distance*|Auto|Auto|  
 |*Gimbal pitch*|-90°| -90°|

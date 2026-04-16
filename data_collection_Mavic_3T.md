@@ -20,13 +20,13 @@
 ## 4. Fligh settings to collect images in photovoltaic plants
 ### 4.1 Main Images of panels: DJI PILOT PARAMETERS  
 
-||RGB Orthomosaic  |Thermal single image analysis  |
+||RGB Orthomosaic  |IR  |
 |----------------|:---------------:|:-----------------------------:|
 |*Image Formats* |JPG| R-JPG|
 |*Flight speed*  |7 m/s|4 m/s|
 |*Turn type*  |Stop and turn           | Stop and turn|
 |*Camera*  |Zoom 1x|Thermal IR + Zoom 1x|
-|*GSD*  |3.5 cm/px| Thermal IR: 3.5 cm/px,<br> Zoom: 1 cm/px|
+|*GSD*  |4 cm/px| Thermal IR: 3.5 cm/px,<br> Zoom: 1 cm/px|
 |*Front Overlap*|80%|75%|   
 |*Side Overlap*|70%|65%|  
 |*Direction flight angle* || Plants with trackers: 0°,<br> whitout trackers: 90°|

@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RentadroneCL/AI-Agro-Platform/tags"><img src="https://img.shields.io/github/v/tag/RentadroneCL/AGuidance-of-UAV-Thermography?colorA=363a4f&style=for-the-badge"></a>
-  <a href="https://github.com/RentadroneCL/AI-Agro-Platform/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&style=for-the-badge"></a>
+  <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/tags"><img src="https://img.shields.io/github/v/tag/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&style=for-the-badge"></a>
+  <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/blob/main/LICENSE"><img src="https://img.shields.io/github/license/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&style=for-the-badge"></a>
   <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg?colorA=363a4f&style=for-the-badge"></a>
   <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/stargazers"><img src="https://img.shields.io/github/stars/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
   <a href="https://github.com/RentadroneCL/Guidance-of-UAV-Thermography/issues"><img src="https://img.shields.io/github/issues/RentadroneCL/Guidance-of-UAV-Thermography?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
